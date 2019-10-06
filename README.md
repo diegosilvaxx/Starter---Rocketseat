@@ -1,2 +1,2 @@
-# Starter---Rocketseat
+# Starter-Rocketseat
 Treinamento Rocketseat
